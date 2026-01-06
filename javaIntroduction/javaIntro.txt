@@ -1,0 +1,75 @@
+java:
+- object oriented programming lauguage
+- developed by sun microsystem in 1995
+- james Gosling is the father of java
+- before java its name was Oak
+- owned by oracle corporation
+- run on more than 10 billion devices
+
+used for:
+- Mobile applications
+- Desktop applications
+- Web applications
+- web servers and application servers
+- games
+- database connection
+
+why use java?
+- works on different platforms(windows, mac, linux, etc)
+- most popular programming language in the world
+- large demand in current job market
+- easy to learn and use
+- open source and free
+- secure fast and powerful
+- large community support
+- gives clear structure to programers and allow to reuse , lowering the devemopment cost
+- close to c++ and c# makes easy to switch between these.
+
+Features of java:
+01 - object oriented programming
+    - Everything in java is an object.
+    - Object that incorporate Data and Behavior.
+    - Basic concept of OOP's:
+        - object
+        - Class
+        - Inheritance
+        - Polymorphism
+        - Abstraction
+        - Encapsulation
+02 - simple
+    - easy to learn and its sytax is simple,clean and easy to understand.
+    - As per Sun Microsystem - java is Simple Language.
+    - removed complicated and rarely-used Features
+        - explicit pointers
+        - operator overloading
+    - Automatic Garbage collection is present in JAVA
+03 - secured
+    - best known form security
+    - can develop virus free systems
+    - no explicit pointers
+    - java programs run inside a virtual machine sandbox
+    - classLoader: 
+        - part of JRE(java Runtime Environment)
+        - used to load java classes into java virtual machine
+        - provide security by seperating package for classes of local file systems from those that are imported from network sources.
+    - ByteCodeVerifier:
+        - check code fragments for illegal code that can voilate access rights to objects.
+    - Security Manager:
+        - detarmines what resources a class can access such as reading and writing to the local disk.
+    - java provides these securities by default.
+04 - platform independent
+    - write once , run anywhere(WORA).
+    - java provide software-based platform.
+    - java has two components:
+        - Runtime Environment
+        - API(Application Programming Interface)
+        - java code -> compilor -> byte code(platform independent) -> Runtime Environment -> output
+05 - Robust(strong)
+    - uses strong memory management.
+    - lack of pointers that avoids security problems.
+06 - Portable
+07 - architacture Natural
+08 - Dynamic
+09 - Interpreted
+10 - High Performance
+11 - Multithreaded
