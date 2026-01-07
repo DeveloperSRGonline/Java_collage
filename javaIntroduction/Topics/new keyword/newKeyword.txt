@@ -1,0 +1,3 @@
+new keyword:
+- used to allocate memory at runtime.
+- syntax : classname objectname = new classname();

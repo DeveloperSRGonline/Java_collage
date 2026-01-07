@@ -1,0 +1,6 @@
+JRE : 
+- stands for (Java Runtime Environment)
+- its set of softwares tools which are used for developing java applications
+- it provide runtime Environment
+- it's the implementation of jvm, it physically exists.
+- set of libraries + other files(jvm uses)

@@ -1,0 +1,9 @@
+JVM : 
+- stands for (Java Vitual Machine).
+- it doesn't physically exist.
+- its an Environment in which java bytecode can be executed.
+- main tasks are : 
+    - Load code
+    - Verifies code
+    - Executes code
+    - Provides runtime environment

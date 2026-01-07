@@ -67,9 +67,26 @@ Features of java:
 05 - Robust(strong)
     - uses strong memory management.
     - lack of pointers that avoids security problems.
+    - provide automatic Garbage collection which runs on java virtual machine.
+    - exception handling and type checking also present there.
 06 - Portable
+    - it carry bytecode to any platform.
 07 - architacture Natural
+    - 4 bytes for both 32 & 64 bits.
 08 - Dynamic
+    - it support dynamic supports dynamic loading of classes.
+    - it means classes are load on demand.
+    - also supports functions from native languages.(c,c++)
+    - support dynamic compilation and automatic memory management(garbage collection)
 09 - Interpreted
 10 - High Performance
+    - faster than other Interpreted language(python) and little bit slower than compiled language(c++)
 11 - Multithreaded
+    - seperate program , excuting concurrently.
+    - java defines multiple tasks as once (multiple threads).
+    - it doesn't occupy memory for each thread.(this is its main feature).
+    - threads are important for multimedia,web applicaitions,etc
+
+#.Class : user defined data type which groups data members and its associated functions together.
+
+#.Object : basic unit of OOP and represents real life entities.(instance of class)
